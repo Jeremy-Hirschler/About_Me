@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ViridianHazel
-- 👀 I’m interested in software engineering, data science, backend development.
-- 🌱 I’m currently learning Python 3.
+- 👀 I’m interested in software engineering, data science, front-end or back-end development.
+- 🌱 I’m currently learning HTML/CSS/Javascript.
 - 💞️ I’m looking to collaborate on any sort of hands-on project for beginners.
-- 📫 How to reach me: Are there notifications on here? Otherwise email - JJ.Hirschler@gmail.com
+- 📫 How to reach me: Email is usually good - JJ.Hirschler@gmail.com
 
 <!---
 ViridianHazel/ViridianHazel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
